@@ -25,8 +25,7 @@ jobs:
         run: |
           npm install
           npm run build
-          npm install -g serve
-          serve -s build
+          npm run serve
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v2
