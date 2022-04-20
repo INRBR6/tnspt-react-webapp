@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '16.x'
 
-      - name: npm install, build, and test
+      - name: npm install, build
         run: |
           npm install
           npm run build
@@ -41,6 +41,10 @@ jobs:
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
+      - name: npm serve
+        run: |
+          npm run serve
+
       - name: Download artifact from build job
         uses: actions/download-artifact@v2
         with:
