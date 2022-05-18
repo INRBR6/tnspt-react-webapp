@@ -1,0 +1,27 @@
+{
+    "filteredQuotes":[{
+        "id":1,
+        "name":"APSCAN_AG_Premia_1"
+    },{
+        "id":2,
+        "name":"APSCAN_AG_Premia_2"
+    },{
+        "id":3,
+        "name":"APSCAN_AG_Premia_3"
+    },{
+        "id":4,
+        "name":"APSCAN_AG_Premia_4"
+    },{
+        "id":5,
+        "name":"APSCAN_AG_Premia_5"
+    },{
+        "id":6,
+        "name":"APSCAN_AG_Premia_6"
+    },{
+        "id":7,
+        "name":"APSCAN_AG_Premia_7"
+    },{
+        "id":8,
+        "name":"APSCAN_AG_Premia_8"
+    }]
+}

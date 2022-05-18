@@ -1,0 +1,13 @@
+{
+    "selectedQuotes":[{
+        "checked": true,
+        "quotePrice": "PQ - Africa_Crude_Premium_Aseng_Spot_P",
+        "scenario": "Product A",
+        "scenarioDate": 3.81
+    },{
+        "checked": false,
+        "quotePrice": "PQ - 11SBEMTH02_I369",
+        "scenario": "Product B",
+        "scenarioDate": 2.58
+    }]
+}
